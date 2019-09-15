@@ -1,2 +1,2 @@
 # Coursera deeplearning.ai 
-deeplearning.ai notebooks
+deeplearning.ai notes
